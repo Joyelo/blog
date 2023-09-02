@@ -1,0 +1,45 @@
+/* Estilos generales del cuerpo de la página */
+body {
+    margin: 0; /* Elimina los márgenes predeterminados del cuerpo de la página */
+    padding: 0; /* Elimina el relleno predeterminado del cuerpo de la página */
+    position: fixed; /* Fija la posición del cuerpo de la página */
+    top: 0; /* Ancla la parte superior del cuerpo en la parte superior del viewport */
+    bottom: 0; /* Ancla la parte inferior del cuerpo en la parte inferior del viewport */
+    left: 0; /* Ancla el lado izquierdo del cuerpo en el lado izquierdo del viewport */
+    right: 0; /* Ancla el lado derecho del cuerpo en el lado derecho del viewport */
+}
+
+/* Estilos para los enlaces (a) */
+a {
+    text-decoration: none; /* Quita la decoración de subrayado de los enlaces */
+    display: inline; /* Hace que los enlaces se muestren en línea */
+    color: #000000; /* Establece el color del texto de los enlaces a negro */
+}
+
+/* Estilos para el encabezado (header) */
+header {
+    width: 100%; /* Establece el ancho del encabezado al 100% del contenedor principal */
+    height: 140px; /* Establece la altura del encabezado en 140 píxeles */
+    display: grid; /* Utiliza un sistema de cuadrícula para organizar los elementos dentro del encabezado */
+    grid-template-rows: 1fr 1fr; /* Divide el encabezado en dos filas de igual altura */
+}
+
+/* Estilos para el contenedor de iconos en el encabezado */
+header .header-icons-container {
+    width: 100%; /* Establece el ancho del contenedor al 100% del encabezado */
+    height: 50px; /* Establece la altura del contenedor de iconos en 50 píxeles */
+    display: grid; /* Utiliza un sistema de cuadrícula para organizar los elementos dentro del contenedor */
+    background-color: #47cfac; /* Establece el color de fondo del contenedor de iconos */
+}
+
+/* Estilos para el contenedor de iconos en el encabezado */
+header .header-icons-container .icons {
+    width: 300px; /* Establece el ancho del contenedor de iconos en 300 píxeles */
+    height: auto; /* Ajusta la altura automáticamente según el contenido */
+    display: flex; /* Utiliza un sistema flexbox para organizar los elementos internos */
+    justify-items: flex-end; /* Alinea los elementos en el extremo derecho del contenedor */
+    align-items: center; /* Alinea verticalmente los elementos al centro del contenedor */
+    justify-content: space-between; /* Distribuye los elementos con espacio entre ellos */
+    justify-self: end; /* Alinea el contenedor en el extremo derecho del encabezado */
+    margin-right: 50px; /* Establece un margen derecho de 50 píxeles para el contenedor */
+}
