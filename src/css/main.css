@@ -43,3 +43,34 @@ header .header-icons-container .icons {
     justify-self: end; /* Alinea el contenedor en el extremo derecho del encabezado */
     margin-right: 50px; /* Establece un margen derecho de 50 píxeles para el contenedor */
 }
+
+header .icons span {
+    color: #ffffff;
+}
+
+nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 90px;
+}
+
+nav .nav-logo-container {
+    margin-left: 50px;
+}
+
+nav .nav-logo-container img {
+    width: 220px;
+    margin-top: 10px;
+}
+
+nav .profile-link {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 50px;
+}
+
+nav .profile-link a {
+    color: #000000;
+    border-bottom: 1px solid #000000;
+}
