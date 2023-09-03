@@ -1,5 +1,9 @@
+/* Importación de fuentes de Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;700&family=Roboto+Slab:wght@400;700&family=Roboto:wght@400;500;700;900&display=swap');
+
 /* Estilos generales del cuerpo de la página */
 body {
+    font-family: 'Roboto mono', monospace; /* Establece la fuente del texto del cuerpo */
     margin: 0; /* Elimina los márgenes predeterminados del cuerpo de la página */
     padding: 0; /* Elimina el relleno predeterminado del cuerpo de la página */
     position: fixed; /* Fija la posición del cuerpo de la página */
@@ -78,4 +82,48 @@ nav .profile-link {
 nav .profile-link a {
     color: #000000; /* Establece el color del texto en negro */
     border-bottom: 1px solid #000000; /* Agrega un borde inferior de 1 píxel sólido negro al enlace */
+}
+
+/* Estilos para la sección principal (main) */
+.home-main {
+    display: grid; /* Utiliza un sistema de cuadrícula para organizar elementos dentro de la sección */
+    grid-template-columns: 1fr 4fr 1fr; /* Divide la sección en tres columnas con diferentes proporciones */
+    height: 100%; /* Establece la altura de la sección al 100% del viewport */
+    background-image: url('../assets/img/Cover.png'); /* Establece una imagen de fondo */
+    background-position: center; /* Centra la imagen de fondo */
+    background-repeat: no-repeat; /* Evita que la imagen de fondo se repita */
+    background-size: cover; /* Ajusta el tamaño de la imagen de fondo para cubrir la sección */
+}
+
+/* Estilos para las secciones dentro de la sección principal */
+.home-main section {
+    display: grid; /* Utiliza un sistema de cuadrícula para organizar elementos dentro de las secciones */
+    grid-column: 2; /* Coloca las secciones en la segunda columna de la sección principal */
+    justify-items: center; /* Centra los elementos horizontalmente dentro de las secciones */
+    height: 350px; /* Establece la altura de las secciones */
+    margin-top: 80px; /* Establece un margen superior de 80 píxeles */
+}
+
+/* Estilos para el texto en la sección principal */
+.home-main-text {
+    font-size: 30px; /* Tamaño de fuente */
+    font-weight: 700px; /* Peso de la fuente */
+    letter-spacing: 10px; /* Espaciado entre letras */
+    color: #ffffff; /* Color del texto */
+    text-align: center; /* Alineación del texto al centro */
+}
+
+/* Estilos para el botón en la sección principal */
+.home-main-button {
+    width: 110px; /* Ancho del botón */
+    height: 50px; /* Altura del botón */
+    background: #47cfac; /* Color de fondo del botón */
+    display: grid; /* Utiliza un sistema de cuadrícula para organizar elementos dentro del botón */
+    align-items: center; /* Centra verticalmente los elementos dentro del botón */
+}
+
+/* Estilos para el enlace dentro del botón en la sección principal */
+.home-main-button a {
+    font-weight: 700; /* Peso de la fuente */
+    font-size: 18px; /* Tamaño de fuente */
 }
