@@ -44,33 +44,38 @@ header .header-icons-container .icons {
     margin-right: 50px; /* Establece un margen derecho de 50 píxeles para el contenedor */
 }
 
+/* Estilos para los íconos dentro del encabezado */
 header .icons span {
-    color: #ffffff;
+    color: #ffffff; /* Establece el color de los íconos en blanco */
 }
 
+/* Estilos para la barra de navegación (nav) */
 nav {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    height: 90px;
+    display: grid; /* Utiliza un sistema de cuadrícula para organizar elementos en la barra de navegación */
+    grid-template-columns: 1fr 1fr; /* Divide la barra en dos columnas de igual ancho */
+    height: 90px; /* Establece la altura de la barra de navegación en 90 píxeles */
 }
 
+/* Estilos para el contenedor del logotipo en la barra de navegación */
 nav .nav-logo-container {
-    margin-left: 50px;
+    margin-left: 50px; /* Establece un margen izquierdo de 50 píxeles */
 }
 
+/* Estilos para la imagen del logotipo */
 nav .nav-logo-container img {
-    width: 220px;
-    margin-top: 10px;
+    width: 220px; /* Establece el ancho de la imagen en 220 píxeles */
+    margin-top: 10px; /* Establece un margen superior de 10 píxeles */
 }
 
+/* Estilos para el enlace "Sobre mí" en la barra de navegación */
 nav .profile-link {
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-    margin-right: 50px;
+    display: flex; /* Utiliza flexbox para organizar elementos internos */
+    align-items: center; /* Alinea verticalmente los elementos al centro */
+    justify-content: flex-end; /* Alinea los elementos hacia el extremo derecho */
+    margin-right: 50px; /* Establece un margen derecho de 50 píxeles */
 }
 
 nav .profile-link a {
-    color: #000000;
-    border-bottom: 1px solid #000000;
+    color: #000000; /* Establece el color del texto en negro */
+    border-bottom: 1px solid #000000; /* Agrega un borde inferior de 1 píxel sólido negro al enlace */
 }
