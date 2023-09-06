@@ -38,9 +38,11 @@ Este blog es un espacio interactivo. Me encantaría que te unas a la conversaci�
 
 ¡Sígueme en mis redes sociales para mantenerte actualizado sobre mis últimas publicaciones y proyectos!
 
-- [Twitter](https://twitter.com)
-- [LinkedIn](https://www.linkedin.com)
-- [GitHub](https://github.com)
+- [![Facebook](https://img.shields.io/badge/Facebook-Like-blue)](https://www.facebook.com/profile.php?id=61550597387264)
+- [![Instagram](https://img.shields.io/badge/Instagram-Follow-brightgreen)](https://www.instagram.com/joyelocode/)
+- [![Twitter](https://img.shields.io/twitter/follow/tuusuario?style=social)](https://twitter.com/joyelocode)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/joyelocode/)
+- [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCTEOU82zC2UHj-AUW9-OrBw)](https://www.youtube.com/channel/UCTEOU82zC2UHj-AUW9-OrBw)
 
 ## Agradecimientos
 
