@@ -38,11 +38,11 @@ Este blog es un espacio interactivo. Me encantaría que te unas a la conversaci�
 
 ¡Sígueme en mis redes sociales para mantenerte actualizado sobre mis últimas publicaciones y proyectos!
 
-- [![Facebook](https://img.shields.io/badge/Facebook-Like-blue)](https://www.facebook.com/profile.php?id=61550597387264)
-- [![Instagram](https://img.shields.io/badge/Instagram-Follow-brightgreen)](https://www.instagram.com/joyelocode/)
-- [![Twitter](https://img.shields.io/twitter/follow/tuusuario?style=social)](https://twitter.com/joyelocode)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/joyelocode/)
-- [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCTEOU82zC2UHj-AUW9-OrBw)](https://www.youtube.com/channel/UCTEOU82zC2UHj-AUW9-OrBw)
+- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61550597387264)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joyelocode/)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/joyelocode)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyelocode/)
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@joyelocode)
 
 ## Agradecimientos
 
