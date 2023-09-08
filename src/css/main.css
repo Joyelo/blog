@@ -23,6 +23,13 @@ a {
     left: 0; /* Ancla el lado izquierdo del cuerpo en el lado izquierdo del viewport */
     right: 0; /* Ancla el lado derecho del cuerpo en el lado derecho del viewport */
 }
+
+/* Estilos para un contenedor de cuadrícula */
+.grid-container {
+    max-width: 980px; /* Establece el ancho máximo del contenedor en 980 píxeles */
+    margin: auto; /* Centra el contenedor horizontalmente en la página */
+}
+
 /* Estilos para el encabezado (header) */
 header {
     width: 100%; /* Establece el ancho del encabezado al 100% del contenedor principal */
@@ -179,4 +186,44 @@ nav .profile-link a {
     border-bottom: 1px solid #cdd2da; /* Agrega un borde inferior de 1px sólido */
     padding-bottom: 20px; /* Agrega espacio inferior de 20px */
     text-align: center; /* Alinea el texto al centro */
+}
+
+/* Estilos para un botón en la página de blogs */
+.blogs-button {
+    border: 1px solid #47cfac; /* Agrega un borde de 1 píxel sólido con color #47cfac al botón */
+    padding: 10px 15px; /* Agrega relleno de 10 píxeles arriba/abajo y 15 píxeles izquierda/derecha al botón */
+    font-size: 12px; /* Establece el tamaño de fuente en 12 píxeles */
+}
+
+/* Estilos para los contenedores de las entradas de blog en la página de blogs */
+.blogs-posts-container .post-container {
+    display: inline-block; /* Hace que los contenedores de entradas de blog se muestren en línea */
+    padding-left: 10px; /* Agrega relleno de 10 píxeles a la izquierda de los contenedores */
+    max-width: 30%; /* Establece el ancho máximo de los contenedores en un 30% */
+    margin-bottom: 50px; /* Agrega un margen inferior de 50 píxeles a los contenedores */
+}
+
+/* Estilos para los párrafos dentro de los contenedores de las entradas de blog */
+.blogs-posts-container .post-container p {
+    margin-bottom: 35px; /* Agrega un margen inferior de 35 píxeles a los párrafos */
+}
+
+/* Estilos para las imágenes dentro de los contenedores de las entradas de blog */
+.blogs-posts-container .post-container img {
+    width: 100%; /* Establece el ancho de las imágenes al 100% del contenedor */
+}
+
+/* Estilos para el pie de página */
+footer {
+    width: 100%; /* Establece el ancho del pie de página al 100% del contenedor principal */
+    height: 80px; /* Establece la altura del pie de página en 80 píxeles */
+    background-color: #22272d; /* Establece el color de fondo del pie de página en #22272d */
+    border-top: 35px solid #47cfac; /* Agrega una parte superior de borde de 35 píxeles de color #47cfac */
+    text-align: center; /* Alinea el texto en el centro del pie de página */
+}
+
+/* Estilos para los párrafos dentro del pie de página */
+footer p {
+    color: #ffffff; /* Establece el color del texto en el pie de página en blanco */
+    margin-top: 30px; /* Agrega un margen superior de 30 píxeles a los párrafos del pie de página */
 }
