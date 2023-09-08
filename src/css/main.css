@@ -228,53 +228,66 @@ footer p {
     margin-top: 30px; /* Agrega un margen superior de 30 píxeles a los párrafos del pie de página */
 }
 
+/* Estilos para la sección de imágenes de publicaciones de blog */
 .blogpost-img-container {
-    padding: 0 50px 40px;
+    padding: 0 50px 40px; /* Espaciado interno en la sección de imágenes de publicaciones de blog */
 }
 
+/* Estilos para las imágenes en la sección de imágenes de publicaciones de blog */
 .blogpost-img-container img {
-    width: 100%;
+    width: 100%; /* Las imágenes ocuparán el 100% del ancho de su contenedor */
 }
 
+/* Estilos para el contenedor principal de las publicaciones de blog */
 .blogpost-main-container {
-    padding: 0 50px 40px;
+    padding: 0 50px 40px; /* Espaciado interno en el contenedor principal de las publicaciones de blog */
 }
 
+/* Estilos para los títulos de las publicaciones de blog en el contenedor principal */
 .blogpost-main-container h3 {
-    border-bottom: 1px solid #cdd2da;
-    padding-bottom: 20px;
+    border-bottom: 1px solid #cdd2da; /* Agrega un borde inferior a los títulos de las publicaciones de blog */
+    padding-bottom: 20px; /* Espaciado inferior debajo de los títulos */
 }
 
+/* Estilos para los títulos de nivel 1 (h1) dentro de los artículos en el contenedor principal */
 .blogpost-main-container article h1 {
-    font-size: 35px;
+    font-size: 35px; /* Tamaño de fuente de los títulos de nivel 1 dentro de los artículos */
 }
 
+/* Estilos para el contenedor principal de la sección de contacto */
 .contact-main-container {
-   width: 100%;
-   min-height: 250px;   
-   background-color: #e6e9ed;
-   text-align: center;
-   padding-bottom: 50px;
+   width: 100%; /* El contenedor ocupa el 100% del ancho disponible */
+   min-height: 250px; /* Altura mínima del contenedor */
+   background-color: #e6e9ed; /* Color de fondo del contenedor */
+   text-align: center; /* Alineación del texto en el centro */
+   padding-bottom: 50px; /* Espaciado inferior en el contenedor */
 }
 
+/* Estilos para los elementos dentro del contenedor de la sección de contacto */
 .contact-main-container div {
-    display: inline-block;
-    width: 49.5%;
-    height: 100%;
+    display: inline-block; /* Los elementos se muestran en línea y fluyen uno al lado del otro */
+    width: 49.5%; /* Ancho de cada elemento (para que dos elementos encajen en una fila) */
+    height: 100%; /* Altura del elemento */
 }
 
+/* Estilos para los enlaces dentro de los elementos de la sección de contacto */
 .contact-main-container div a {
-    border-bottom: 1px solid #000000;
-    padding-bottom: 5px;
+    border-bottom: 1px solid #000000; /* Agrega un borde inferior a los enlaces */
+    padding-bottom: 5px; /* Espaciado inferior debajo de los enlaces */
 }
 
+/* Estilos para los elementos de la izquierda y la derecha en la sección de contacto */
 .contact-main-container .contact-left, .contact-right {
-    text-align: initial;
-    margin-top: 85px;
+    text-align: initial; /* Restablece la alineación de texto a su valor predeterminado */
+    margin-top: 85px; /* Margen superior en los elementos de la izquierda y la derecha */
 }
 
+/* Estilos para las imágenes dentro de la sección de contacto */
 .contact-main-container img {
-    width: 100px;
+    width: 100px; /* Ancho de las imágenes */
 }
+
+
+
 
 
