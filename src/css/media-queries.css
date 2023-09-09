@@ -1,39 +1,57 @@
+/* Estilos para pantallas con un ancho máximo de 900px */
 @media (max-width: 900px) {
+    /* Ajusta el diseño de la sección de noticias en la página de blogs */
     .blogs-main-new {
-        grid-template-columns: 1fr;
-        grid-template-rows: 3fr;
+        grid-template-columns: 1fr; /* Cambia a una sola columna */
+        grid-template-rows: 3fr; /* Ajusta la relación de filas */
     } 
+
+    /* Ajusta la posición de la imagen en la sección de noticias */
     .blogs-news-img-container {
-        grid-row: 2;
+        grid-row: 2; /* Mueve la imagen a la segunda fila */
     }
+
+    /* Ajusta la posición de la información en la sección de noticias */
     .blogs-news-info-container {
-        grid-column: 1;
-        grid-row: 3;
+        grid-column: 1; /* Cambia a la primera columna */
+        grid-row: 3; /* Mueve la información a la tercera fila */
     }
+
+    /* Ajusta el ancho máximo de los contenedores de entradas de blog */
     .blogs-posts-container .post-container {
-        max-width: 45%;
+        max-width: 45%; /* Reduce el ancho máximo */
     }
+
+    /* Ajusta el diseño de la sección de proyectos en la página de perfil */
     .proyects-main-container {
-        grid-template-columns: 1fr 1fr;
-        grid-template-rows: 2fr;
+        grid-template-columns: 1fr; /* Divide en 1 columna */
+        grid-template-rows: 3fr; /* Ajusta la relación de filas */
     }
+
+    /* Ajusta el diseño de la sección de perfil en pantallas pequeñas */
     .profile-main-container .profile-container {
-        display: block;
+        display: block; /* Cambia a una disposición de bloque */
     }
 }
 
+/* Estilos para pantallas con un ancho máximo de 600px */
 @media (max-width: 600px) {
+    /* Ajusta el ancho máximo de los contenedores de entradas de blog aún más */
     .blogs-posts-container .post-container {
-        max-width: 95%;
+        max-width: 95%; /* Reduce aún más el ancho máximo */
     }
 }
 
+/* Estilos para pantallas con un ancho máximo de 419px */
 @media (max-width: 419px) {
+    /* Ajusta el tamaño y el margen superior del logotipo en la barra de navegación */
     nav .nav-logo-container img {
-        width: 182px;
-        margin-top: 18px;
+        width: 182px; /* Cambia el ancho de la imagen del logotipo */
+        margin-top: 18px; /* Cambia el margen superior del logotipo */
     }
+
+    /* Ajusta el tamaño de fuente del enlace "Sobre mí" en la barra de navegación */
     nav .profile-link {
-        font-size: 14px;
+        font-size: 14px; /* Cambia el tamaño de fuente */
     }
 }
