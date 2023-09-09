@@ -99,7 +99,7 @@ nav .profile-link a {
     display: grid; /* Utiliza un sistema de cuadrícula para organizar elementos dentro de la sección */
     grid-template-columns: 1fr 4fr 1fr; /* Divide la sección en tres columnas con diferentes proporciones */
     height: 100%; /* Establece la altura de la sección al 100% del viewport */
-    background-image: url('../../../../maquetacion-css-blog/blog/src/assets/img/Cover.png'); /* Establece una imagen de fondo */
+    background-image: url('../assets/img/Cover.png'); /* Establece una imagen de fondo */
     background-position: center; /* Centra la imagen de fondo */
     background-repeat: no-repeat; /* Evita que la imagen de fondo se repita */
     background-size: cover; /* Ajusta el tamaño de la imagen de fondo para cubrir la sección */
