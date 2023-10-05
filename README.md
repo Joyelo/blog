@@ -1,3 +1,5 @@
+![Blog Personal](https://github.com/joyelocode/blog/blob/main/src/assets/img/joyelo-blog.png)
+
 # Blog Personal de Desarrollo Web en Platzi
 
 ¡Bienvenidos a mi blog personal de desarrollo web! Aquí compartiré mis experiencias, aprendizajes y avances en los cursos de la Escuela de Desarrollo Web de Platzi. Este espacio será mi bitácora digital donde documentaré mis proyectos y exploraré las fascinantes profundidades del desarrollo web.
