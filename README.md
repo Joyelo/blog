@@ -2,6 +2,17 @@
 
 ¡Bienvenidos a mi blog personal de desarrollo web! Aquí compartiré mis experiencias, aprendizajes y avances en los cursos de la Escuela de Desarrollo Web de Platzi. Este espacio será mi bitácora digital donde documentaré mis proyectos y exploraré las fascinantes profundidades del desarrollo web.
 
+## Aclaración de roles en este proyecto
+
+En este proyecto de desarrollo web, deseo aclarar los roles involucrados para una mejor comprensión de su origen y ejecución:
+
+1. **Creador del Proyecto**: El profesor [Diego De Granda](https://platzi.com/profes/degranda/) fue el iniciador y supervisor de este proyecto. Su experiencia y dirección han sido esenciales en la planificación y ejecución de este proyecto.
+
+2. **Aprendiz**: Yo, [José Yesid López](https://platzi.com/p/Joyelocode/), desempeñé el papel principal como aprendiz en este proyecto. Mi responsabilidad principal ha sido aplicar los conocimientos adquiridos en el curso y llevar a cabo las tareas designadas bajo la orientación del profesor.
+
+Esta distinción de roles garantiza una comprensión precisa de las contribuciones y responsabilidades en este proyecto y reconoce la valiosa contribución del profesor en su concepción y supervisión.
+
+
 ## Sobre Mí
 
 Soy [José Yesid López Santibañez], un apasionado del desarrollo web en constante búsqueda de conocimiento y habilidades en este emocionante campo. Mi viaje en la Escuela de Desarrollo Web de Platzi es una oportunidad para aprender de los mejores y construir una base sólida en el desarrollo web.
