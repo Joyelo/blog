@@ -32,6 +32,21 @@
     .profile-main-container .profile-container {
         display: block; /* Cambia a una disposición de bloque */
     }
+    .home-main-text {
+        margin-left: 75px;
+    }
+    
+}
+
+@media (min-width: 1225px) {
+    .home-main-text {
+        margin-left: 65px;
+    }
+
+    .home-main-button {
+        margin-right: 65px;
+    }
+    
 }
 
 /* Estilos para pantallas con un ancho máximo de 600px */
@@ -39,6 +54,9 @@
     /* Ajusta el ancho máximo de los contenedores de entradas de blog aún más */
     .blogs-posts-container .post-container {
         max-width: 95%; /* Reduce aún más el ancho máximo */
+    }
+    .home-main-text {
+        margin-left: 65px;
     }
 }
 
