@@ -1,4 +1,4 @@
-[![Blog Personal](https://github.com/joyelocode/blog/blob/main/src/assets/img/joyelo-blog.png)](https://joyelocode.github.io/blog/)
+[![Blog Personal](https://github.com/joyelocode/blog/blob/main/src/assets/img/joyelocode-blog.png)](https://joyelocode.github.io/blog/)
 
 # Blog Personal de Desarrollo Web en Platzi
 
