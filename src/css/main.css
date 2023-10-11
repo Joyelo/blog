@@ -129,7 +129,9 @@ nav .profile-link a {
 .home-main-button {
     width: 110px; /* Ancho del botón */
     height: 50px; /* Altura del botón */
-    background: #48cfad; /* Color de fondo del botón */
+    background: #22272d; /* Color de fondo del botón */
+    color: #ffffff;
+    border-radius: 5px;
     text-align: center; /* Alineación del texto al centro del botón */
     font-weight: 700; /* Peso de la fuente */
     font-size: 18px; /* Tamaño de fuente */
@@ -301,6 +303,7 @@ footer p {
 .profile-main-container img {
     width: 320px; /* Ancho de las imágenes */
     margin-right: 30px; /* Margen derecho de las imágenes */
+    border-radius: 5px;
 }
 
 /* Estilos para el contenedor que envuelve la imagen y la información de perfil */
